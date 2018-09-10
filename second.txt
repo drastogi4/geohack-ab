@@ -3,3 +3,5 @@ second test file.
 this is an edit by luke
 Comment by jomey
 coffee break
+
+I'm trying to make an error
